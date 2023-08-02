@@ -1,1 +1,2 @@
-# Linear-Regression
+# LINEAR REGRESSION
+## ALGORITHM
